@@ -97,13 +97,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gireeshunique&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gireeshunique&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gireeshunique&show_icons=true&theme=github_dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gireeshunique&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gireeshunique&layout=compact&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gireeshunique&theme=github-dark-blue" />
 </p>
 
 ---
