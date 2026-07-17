@@ -97,15 +97,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gireeshunique&show_icons=true&theme=github_dark&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gireeshunique&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gireeshunique&layout=compact&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gireeshunique&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gireeshunique&theme=github_dark" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gireeshunique&theme=github-dark-blue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gireeshunique&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gireeshunique&theme=github_dark&utcOffset=5.5" width="48%" />
 </p>
 
 ---
